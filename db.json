@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id":1,
+      "text": "Doctor app",
+      "day": "feb 223",
+      "reminder": true
+    },
+    {
+      "id":2,
+      "text": "Meet at school",
+      "day": "334",
+      "reminder": true
+    },
+    {
+      "id":3,
+      "text": "dishes",
+      "day": "623",
+      "reminder": true
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
